@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\bin\Debug\net6.0\OOP-11_Interface_Segregation.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\bin\Debug\net6.0\OOP-11_Interface_Segregation.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\bin\Debug\net6.0\OOP-11_Interface_Segregation.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\bin\Debug\net6.0\OOP-11_Interface_Segregation.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\bin\Debug\net6.0\OOP-11_Interface_Segregation.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\refint\OOP-11_Interface_Segregation.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\OOP-11_Interface_Segregation.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-11_Interface_Segregation\OOP-11_Interface_Segregation\obj\Debug\net6.0\ref\OOP-11_Interface_Segregation.dll
